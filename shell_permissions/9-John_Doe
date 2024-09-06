@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 751 hello #751	-rwxr-x--x	File's owner can execute, write to and read from file; group members can execute and read from file; and others can execute file
